@@ -1,29 +1,32 @@
-# 💫 About Me:
-🚀 Actualmente estoy trabajando en proyectos personales.<br><br>🤝 Estoy buscando colaborar en desafíos innovadores que amplíen mis habilidades.<br><br>📚 Actualmente estoy aprendiendo frameworks Python y explorando la integración de inteligencia artificial en proyectos.<br><br>⚡ Dato curioso: Me apasionan los acertijos y rompecabezas, ¡siempre estoy listo para un desafío mental!<br><br><br><br><br><br>
+<h1 align="center">Hola 👋, soy Alexander</h1>
+<h3 align="center">Backend desarrollador</h3>
+
+<p align="izquierda"> <img src="https://komarev.com/ghpvc/?username=axel1022&label=Profile%20views&color=0e75b6&style=flat" alt="axel1022" /> </p>
+
+<p align="izquierda"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?nombre de usuario =eje1022" alt="axel1022" /></a> </p>
+
+- 🔭 Actualmente estoy trabajando en **proyectos personales.**
+
+- 🌱 Actualmente estoy aprendiendo **rameworks Python y explorando la integración de inteligencia artificial en proyectos.**
+
+- 👯 Busco colaborar en **desafíos innovadores que amplíen mis habilidades.**
+
+- 📫 Cómo comunicarse conmigo **ingcampusano@Outlook.con**
+
+- ⚡ Dato curioso **Me apasionan los acertijos y rompecabezas, ¡siempre estoy listo para un desafío mental!**<h3 align="left">Idiomas y herramientas:</h3> ;</p><a href="https://www.youtube.com/c/g_campusano" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="g_campusano" altura = "30" ancho = "40" /></a><a href="https://instagram.com/g_campusano+" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_campusano+" altura = "30" ancho = "40" /></a><a href="https://linkedin.com/in/gary alexander campusano paredes" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gary alexander campusano paredes" altura = "30" ancho = "40" /></a><p align="left">
+
+<h3 align="left">Conéctate conmigo:</h3>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/G_Campusano_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gary Alexander Campusano Paredes) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=axel1022 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=axel1022 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=axel1022 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=axel1022 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=axel1022 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="izquierda"> <a href="https://www.w3schools.com/cs/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" ancho = "40" altura="40"/> </a> <a href="https://www.w3schools.com/css/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" ancho = "40" altura="40"/> </a> <a href="https://flask.palletsprojects.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="frasco" ancho = "40" altura="40"/> </a> <a href="https://git-scm.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" ancho = "40" altura="40"/> </a> <a href="https://www.w3.org/html/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho = "40" altura="40"/> </a> <a href="https://www.java.com" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" ancho = "40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho = "40" altura="40"/> </a> <a href="https://www.mongodb.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" ancho = "40" altura="40"/> </a> <a href="https://www.mysql.com/" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho = "40" altura="40"/> </a> <a href="https://www.python.org" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho = "40" altura="40"/> </a> <a href="https://www.selenium.dev" objetivo = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenio" ancho = "40" altura="40"/> </a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=axel1022 &icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel1022&show_icons=true&locale=en&layout=compact" alt="axel1022" /></p>
 
+<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=axel1022&show_icons=true&locale=en" alt="axel1022" /></p>
+
+<p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=axel1022&" alt="axel1022" /></p>
