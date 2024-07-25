@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy Alexander, un entusiasta del desarrollo de software de 21 años de la República Dominicana, estudiando en mi último año en el Instituto Tecnológico de las Américas (ITLA).<br><br>Tengo habilidades intermedias en HTML5, Javascript, C#, Python, Java y SQL. He trabajado como monitor en Introducción a la Elaboración de Algoritmos y Fundamentos de Programación, lo que ha fortalecido mis habilidades técnicas y de comunicación.<br><br>Estoy buscando participar en proyectos desafiantes y aprender de nuevas experiencias. ¡Me encanta resolver cubos de Rubik y estoy siempre listo para conectarme y colaborar en la creación de un futuro digital extraordinario!<br><br>¡Hagamos que la tecnología sea nuestra herramienta para construir un mañana mejor! 🚀
+Soy Alexander, un desarrollador de software de la República Dominicana, especializado en desarrollo BackEnd. Actualmente, estoy en mi último año en el Instituto Tecnológico de las Américas (ITLA). Tengo experiencia en Python, Java, C#, JavaScript, SQL, Node.js, Express, y más.
+
+He trabajado en proyectos como MedScan, una aplicación para predecir enfermedades con IA; Food Rush Ya, una plataforma de mejora de la experiencia de compra y entrega de productos; y EduGlobalConnect, una plataforma educativa en línea. Participé en hackathons como el Samsung Innovation Campus y el Instituto Dominico Americano.
+
+Soy un entusiasta del aprendizaje continuo y siempre busco nuevas oportunidades para crecer. ¡Conectemos!🚀
 
 
 ## 🌐 Socials:
